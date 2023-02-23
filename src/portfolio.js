@@ -25,9 +25,9 @@ const greeting = {
   subTitle:
     "A passionate individual who always thrives to work on end to end products which develop sustainable and scalable social and technical systems to create impact.",
   resumeLink:
-    "https://drive.google.com/file/d/1XvmOASqt3_poL8iRU6-jJWOTzHN1IUHn/view?usp=share_link",
+    "https://drive.google.com/file/d/13PPxV9vAdWlEgLAGrHbgDQK-pEPoh8As/view?usp=sharing",
   portfolio_repository:
-    "https://github.com/Kritagya-web/Kritagya_React_Portfolio",
+    "https://github.com/abidulkamal/abidulkamal.github.io",
 };
 
 const socialMediaLinks = [
