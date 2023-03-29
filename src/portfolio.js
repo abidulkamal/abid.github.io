@@ -591,7 +591,7 @@ const experience = {
 const projectsHeader = {
   title: "Projects",
   description:
-    "My projects makes use of vast variety of latest technology tools. My best experience is to create Data Science, Machine Learning, React based projects and deploy them to web applications using cloud infrastructure.",
+    "My projects makes use of vast variety of latest technology tools such as SolidWorks, Catia in designing products and analyzing their capabilities.",
   avatar_image_path: "projects_image.svg",
 };
 
